@@ -1,0 +1,40 @@
+.btn_ok{
+    width: auto;
+  height: auto;
+  padding: 5px;
+  background-color: #66c05d;
+  color: aliceblue;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 1.2px;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  
+}
+.btn_ok img{
+    max-width: 20px;
+}
+.btn_na{
+    color: rgba(255, 255, 255, 0.48);
+    width: auto;
+    height: auto;
+    min-width: 40px;
+    min-height: 40px;
+    background-color: #caced2;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 1.2px;
+    text-align: center;
+
+}
