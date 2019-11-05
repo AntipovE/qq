@@ -11,7 +11,7 @@ class App extends Component {
         
         const btnData = [
             {label: 'ДОБАВИТЬ МАСТЕР КЛАСС', visible:true ,img:false},
-            {label: '', visible:true, img:'https://www.freeiconspng.com/minicovers/broom-png-33.png'},
+            {label: '', visible:true, img:'https://github.com/AntipovE/qq/blob/master/src/button/ic.png'},
             {label: 'ПОКАЗАТЬ МАСТЕР КЛАССЫ', visible:false ,img:false}
 
 
