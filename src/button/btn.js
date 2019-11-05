@@ -9,7 +9,7 @@ const  MdButton = ({label,visible,img}) => {
    }
 
    const bgImg = <img src ={img}/>
-
+   
    
     let clsNm = 'btn_ok';
     if(visible ? true : clsNm = 'btn_na');

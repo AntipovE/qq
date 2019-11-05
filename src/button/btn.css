@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+
 .btn_ok{
+    font-family: 'Roboto', sans-serif;
     width: auto;
   height: auto;
-  padding: 5px;
+  padding: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
   background-color: #66c05d;
   color: aliceblue;
   font-size: 16px;
@@ -20,6 +27,7 @@
     max-width: 20px;
 }
 .btn_na{
+    font-family: 'Roboto', sans-serif;
     color: rgba(255, 255, 255, 0.48);
     width: auto;
     height: auto;
