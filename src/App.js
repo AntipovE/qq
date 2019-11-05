@@ -12,7 +12,8 @@ class App extends Component {
         const btnData = [
             {label: 'ДОБАВИТЬ МАСТЕР КЛАСС', visible:true ,img:false},
             {label: '', visible:true, img:'https://cdn.zeplin.io/5cf1108516309e0a5cb0b6d8/assets/B6DE1452-03B9-452C-9EB6-57F8A7E914C0.svg'},
-            {label: 'ПОКАЗАТЬ МАСТЕР КЛАССЫ', visible:false ,img:false}
+            {label: 'ПОКАЗАТЬ МАСТЕР КЛАССЫ', visible:false ,img:false},
+            {label: '', visible:false ,img:'https://cdn.zeplin.io/5cf1108516309e0a5cb0b6d8/assets/B6DE1452-03B9-452C-9EB6-57F8A7E914C0.svg'}
 
 
         ]
